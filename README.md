@@ -6,13 +6,6 @@
   </div>
   Software Engineer focused on mobile development, currently working as an Android Engineer at Critical TechWorks (BMW Group). My main passion is building mobile apps that solve real problems and deliver great user experiences. On the side, I love exploring game development, prototyping new ideas, and learning new technologies. I enjoy tackling complex problems, learning new technologies, and sharing knowledge with the community.
   <br><br>
-  <!-- Future domain: https://planor.org -->
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/Planor-2496ED?style=for-the-badge" alt="Planor" />
-  </a>
-  <br>
-  I am co-founder of the Planor project, a job management app (still under development) designed to simplify workflow for professionals in construction, freelance, and other fields. 
-  <br><br>
 <details>
   <summary><b>Fun facts about me 🤓</b></summary>
   <blockquote> 
